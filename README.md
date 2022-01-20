@@ -10,8 +10,8 @@ Você conseguirá achar o código dos projetos pelo nome que está nessa tabelin
 
 | #   :mag:     | Project    | Status |
 | ------|-----|-----|
-| 01  	| 	Glowing Neon Buttons 	| Concluído em 18.01.2022 :white_check_mark:	|
-| 02  	| 	Neumorphism Login Form	| À ser desenvolvido  	|
+| 01  	| 	Glowing Neon Buttons 	| Concluído :white_check_mark:	Aprendi mais sobre @keyframes nesse desafio, eu consigo configurar pelo css a sincronização da animação e até mesmo indicar o tempo durante a sequência do movimento da animação. |
+| 02  	| 	Neumorphism Login Form	|Concluído :white_check_mark: Nesse desafio, a página de login mudava conforme a pessoa clicava no botão de se inscrever ou de logar, foi interessante porque usei JavaScript e todo código em JS se resume no efeito "toggle", basicamente ele serve para revelar ou esconder um conteúdo, ao clicar no texto que marcamos no HTML.  	|
 |  03  | Responsive Task Management Dashboard 	| À ser desenvolvido 	|
 |  04  | Side Navigation Bar 	| À ser desenvolvido |
 | 05  	| 	Social Media Icons with Tooltip on Hover 	| À ser desenvolvido 	|
